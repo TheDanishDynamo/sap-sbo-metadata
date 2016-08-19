@@ -1,12 +1,12 @@
 TransType, Description
-1,Chart Of Account
+1,Chart of Account
 2,Business Partner
 3,Bank
 4,Item
-5,VatGroup
-6,PriceList
-7,SpecialPrice
-8,ItemProperty
+5,VAT Group
+6,Price List
+7,Special Price
+8,Item Property
 12,User
 13,Sales Invoice
 14,Sales Credit note
@@ -38,8 +38,8 @@ TransType, Description
 53,Sales Person
 56,Customs Group
 57,Check for Payment
-59,General item to inventory
-60,General item from inventory
+59,General Item to Inventory
+60,General Item from Inventory
 64,Warehouse
 65,Commission Group
 66,Product Tree
