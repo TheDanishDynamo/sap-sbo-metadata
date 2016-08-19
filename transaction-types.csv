@@ -9,13 +9,13 @@ TransType, Description
 8,Item Property
 12,User
 13,Sales Invoice
-14,Sales Credit note
-15,Sales Delivery note
+14,Sales Credit Note
+15,Sales Delivery Note
 16,Sales Return
 17,Sales Order
 18,Purchase Invoice
-19,Purchase Credit note
-20,Purchase Delivery note
+19,Purchase Credit Note
+20,Purchase Delivery Note
 21,Purchase Return
 22,Purchase Order
 23,Sales Quotation
