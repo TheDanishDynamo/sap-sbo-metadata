@@ -1,0 +1,132 @@
+TransType, Description
+1,Chart Of Account
+2,Business Partner
+3,Bank
+4,Item
+5,VatGroup
+6,PriceList
+7,SpecialPrice
+8,ItemProperty
+12,User
+13,Sales Invoice
+14,Sales Credit note
+15,Sales Delivery note
+16,Sales Return
+17,Sales Order
+18,Purchase Invoice
+19,Purchase Credit note
+20,Purchase Delivery note
+21,Purchase Return
+22,Purchase Order
+23,Sales Quotation
+24,Payment
+28,Journal Voucher
+30,Journal Entry
+31,Stock Taking
+33,Contact
+36,Credit Card
+37,Currency
+40,Payment Terms Type
+42,Bank Page
+43,Manufacturer
+46,Payment to Vendor
+48,Landed Costs Code
+49,Shipping Type
+50,Length Measure
+51,Weight Measure
+52,Item Group
+53,Sales Person
+56,Customs Group
+57,Check for Payment
+59,General item to inventory
+60,General item from inventory
+64,Warehouse
+65,Commission Group
+66,Product Tree
+67,Stock Transfer
+68,Work Order
+70,Credit Payment Method
+71,Credit Card Payment
+73,Alternate Catalog Number
+77,Budget
+78,Budget Distribution
+81,Message
+91,Budget Scenario
+97,Sales Opportunity
+93,User Default Group
+101,Sales Stage
+103,Activity Type
+104,Activity Location
+112,Draft
+116,Deduction Tax Hierarchy
+117,Deduction Tax Group
+125,Additional Expense
+126,Sales Tax Authority
+127,Sales Tax Authority Type
+128,Sales Tax Code
+134,Query Category
+138,FactoringIndicator
+140,Payment
+142,Account Segmentation
+143,Account Segmentation Category
+144,Warehouse Location
+145,Form 1099
+146,Inventory Cycle
+147,Wizard Payment Method
+150,BP Priority
+151,Dunning Letter
+152,User Field MD
+153,User Table MD
+156,Pick List
+158,Payment Run Export
+160,User Query
+162,Material Revaluation
+163,Purchase Invoice Correction
+164,Correction Invoice Reversal
+165,Correction Invoice
+166,Reverse Invoice Correction
+170,Contract Template
+171,Employee Info
+176,Customer Equipment Card
+178,Withholding Tax Code
+182,Bill Of Exchange Transaction
+189,KnowledgeBase Solution
+190,Service Contract
+191,Service Call
+193,User Keys MD
+194,Queue
+198,Sales Forecast
+200,Territory
+201,Industry
+202,Production Order
+205,Packages Type
+206,Users MD
+211,Team
+212,Relationship
+214,User Permission Tree
+217,Activity Status
+218,Choose from List
+219,Formatted Search
+221,Attachment
+223,User Language
+224,Multi Language Translation
+229,Dynamic System String
+231,House Bank Account
+247,Business Place
+250,Local Era
+280,Sales Tax Invoice
+281,Purchase Tax Invoice
+300,Recordset
+305,SBO bob
+260,Nota Fiscal Usage
+258,Nota Fiscal CFOP
+259,Nota Fiscal CST
+261,Closing Date Procedure
+10, Business Partner Group
+278,BP Fiscal RegistryID
+203,Downpayment
+204,Purchase Downpayment
+1179, Stock Transfer Draft
+540000006, Purchase Quotation
+1250000001, Stock Transfer Request
+1470000113, Purchase Request
